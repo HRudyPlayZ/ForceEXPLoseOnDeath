@@ -6,5 +6,5 @@ Please go to the [1.7.10 branch.](https://github.com/HRudyPlayZ/ForceEXPLoseOnDe
 
 ### Will i port to other versions?
 Maybe, maybe not. Depends on my motivation as i'm mainly a 1.7.10 player.
-Do not ask for a version port, else i won't reply to you. The code is MIT-licensed and should be fairly easy to port
-for someone that has the knowledge to how.
+Do not ask for a version port, else i won't reply to you. 
+The code is MIT-licensed and should be fairly easy to port for someone that has the knowledge to how.
