@@ -2,7 +2,7 @@
 A small Minecraft mod to make keepInventory players able to lose EXP.
 
 This is the main branch, nothing will be here.
-Please go to the [1.7.10 branch.](https://github.com/HRudyPlayZ/ForceEXPLoseOnDeath/tree/1.7.10).
+Please go to the [1.7.10 branch.](https://github.com/HRudyPlayZ/ForceEXPLoseOnDeath/tree/1.7.10)
 
 ###Will i port to other versions?
 Maybe, maybe not. Depends on my motivation as i'm mainly a 1.7.10 player.
