@@ -1,0 +1,16 @@
+[
+    {
+      "modid": "forceexploseondeath",
+      "name": "Force EXP Lose on Death",
+      "description": "This mod allows the player to lose EXP, even with KeepInventory.",
+      "version": "${version}",
+      "mcversion": "${mcversion}",
+      "url": "",
+      "updateUrl": "",
+      "authorList": ["HRudyPlayZ"],
+      "credits": "Henkelmax's Gravestone mod, to let me understand how a proxy works.",
+      "logoFile": "",
+      "screenshots": [],
+      "dependencies": []
+    }
+]
