@@ -35,7 +35,7 @@ public class DeathEvents {
                 // Grabs the concerned entity (the player).
                 EntityLivingBase entity = (EntityLivingBase) event.entity;
 
-                // Spawns the chunk orbs like vanilla MC does.
+                // Spawns the exp orbs like vanilla MC does.
                 while (this.xpAmount > 0) {
                     int j = EntityXPOrb.getXPSplit(xpAmount);
                     this.xpAmount -= j;
